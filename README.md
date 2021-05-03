@@ -5,7 +5,7 @@
     <li>
       <a href="#General">General C++ Problems</a>
       <ul>
-        <li><a href="#problem_1">problem 1 create files and solve Discrete Math Tool</a></li>
+        <li><a href="#problem_1">problem 1 solve Discrete Math Tool and store result in files</a></li>
       </ul>
       <ul>
         <li><a href="#problem_2">problem 2 GrayScale and RGB Images Filters</a></li>
@@ -52,13 +52,18 @@ Develop a program that takes allows the user to enter data sets and store each o
 * Check if A and B are equal   // A and B have exactly the same items 
 * Check if a set is a proper subset of other  
 
+Problem Team Members :
+Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
+Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
+Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
+
 ### problem_2
 <h3>GrayScale and RGB Images Filters</h3>
 problem Decription:
 In this program, you will develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
 
 <h4>filters Names:</h4>
-1-	Black and White Image.<bt>
+1-	Black and White Image.<br>
 2-	Invert Image.<br>
 3-	Merge Images.<br>
 4-	Flip Image.<br>
@@ -68,6 +73,34 @@ In this program, you will develop an image processing tool that can apply differ
 8-	Enlarge Image.<br>
 9-	Shrink Image.<br>
 
+
+Problem Team Members :
+Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
+Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
+Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
+
+<hr>
+### problem_3
+<h3>Security Ciphers</h3>
+problem Decription:
+In this program, you will develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
+
+<h4>Security Ciphers Names:</h4>
+1-  Affine Cipher.<br>
+2-	Caesar Cipher.<br>
+3-	Atbash Cipher.<br>
+4-	ROT13 Cipher.<br>
+5-	Baconian Cipher.<br>
+6-	Simple Substitution Cipher.<br>
+7-	Polybius Square Cipher.<br>
+8-	Morse Code.<br>
+9-	XOR Cipher.<br>
+10-	Rail-fence Cipher.<br>
+
+Problem Team Members :
+Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
+Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
+Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
 
 <!-- GETTING STARTED -->
 ## Getting Started 
