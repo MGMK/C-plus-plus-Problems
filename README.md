@@ -25,10 +25,14 @@
       <ul>
         <li><a href="#problem_6">problem 6 BigDecmal Operations</a></li>
       </ul>
+      <ul>
+        <li><a href="#problem_7">problem 7 DNA RNA Protein Converter</a></li>
+      </ul>
     </li>
   </ol>
   
 </details>
+
 
 
 
@@ -198,7 +202,7 @@ Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b423201
 
 <hr>
 ### problem_7
-<h3>DNA_RNA_Protein program</h3>
+<h3>DNA RNA Protein Converter</h3>
 problem Decription:
 it's complete program that helps biologists manage and analyze their sequence data while storing it in a computer. The biological data can be divided into 3 types of sequences: DNA, RNA, and Protein. A DNA sequence can be of type (promoter, motif, tail, noncoding). Each DNA sequence consists of 2 strands, each strand is a string that is formed by the following 4 characters (nucleotides): A,C,G,T and each strand has its own direction (like 2-way street). ACAAGG, CGATACAG, TTACGCCAT, and GACCCCTA are examples of single DNA strands so we create this program to convert DNA sequence to RNA sequence which is then converted to a Protein sequence.
 <br>  
