@@ -117,9 +117,10 @@ Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b423201
 ### problem_4
 <h3>Matrix Operations</h3>
 problem Decription:
-Using structures, 2-D arrays, functions and overloading, the team will develop a set of functions for matrix manipulation. A matrix is represented by the following structure:<br>   
+Using structures, 2-D arrays, functions and overloading, the team will develop a set of functions for matrix manipulation. A matrix is represented by the following structure:<br>  
+# C++ Example
 ```CPP
-struct matrix {   // A structure to store a matrix
+struct matrix {   
 int** data;
 // Pointer to 2D array   int row, col; 
 }; 
