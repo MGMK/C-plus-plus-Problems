@@ -35,26 +35,22 @@ problem Decription:
 Discrete Math Tool The team will develop a tool for performing discrete math operations.  
 Develop a program that takes allows the user to enter data sets and store each one in a separate file. A set is an unordered collection of objects. The objects in a set are called the elements, or members of the set. Here, a set consists of an arbitrary number of integer values. A number exists once in the set. The program allows the user to load two data sets of integers in order to perform discrete math operations on them. Program should do the task and return to the same menu again until the user selects exist. 
 
-1-  Enter a new data set // Enter a set of integer values and file name to store them 
-2-  Load two data sets   // Take two file names and load the data in sets A and B 
-3-  Display data sets // Displays the current data sets A and B   
-E- End
+* 1-  Enter a new data set // Enter a set of integer values and file name to store them 
+* 2-  Load two data sets   // Take two file names and load the data in sets A and B 
+* 3-  Display data sets // Displays the current data sets A and B   
+* E- End
+
 <h4>problem Functions:</h4>
 
- 
-2- Intersection of A, B // Calculate and display the intersection 
-3- A - B  // Calculate and display A – B (items in A not in B) 
-4- B - A  // Calculate and display B - A (items in B not in A) 
-5- Cartesian product of A and B  // Set of all pairs (a, b) where a  A, b  B 
-6- Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}} 
-7- Check if A and B are disjoint  // No item is in A and B at the same time 
-8- Check if A and B are equal   // A and B have exactly the same items 
-9- Check if a set is a proper subset of other // Tell if A  B or B  A 
- 
-* 1- Union of A, B // Calculate and display the union
-* 1- Union of A, B // Calculate and display the union
-* 1- Union of A, B // Calculate and display the union
-
+* Union of A, B // Calculate and display the union
+* Intersection of A, B // Calculate and display the intersection 
+* A - B  // Calculate and display A – B (items in A not in B) 
+* B - A  // Calculate and display B - A (items in B not in A)
+* Cartesian product of A and B  // Set of all pairs (a, b) where a  A, b  B 
+* Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}  
+* Check if A and B are disjoint  // No item is in A and B at the same time
+* Check if A and B are equal   // A and B have exactly the same items 
+* Check if a set is a proper subset of other // Tell if A  B or B  A 
 
 <!-- GETTING STARTED -->
 ## Getting Started 
