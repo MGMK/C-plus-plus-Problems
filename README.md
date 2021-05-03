@@ -29,6 +29,8 @@
 
 <!-- General C++ Problems -->
 ## General
+there is decription file for each problem, it explain details of each problem expain what problem should take as input and there is examples to test functions so check it before test code.
+
 ### problem_1
 <h3>create files and solve Discrete Math Tool</h3>
 problem Decription:
