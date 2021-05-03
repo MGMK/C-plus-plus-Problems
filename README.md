@@ -52,7 +52,7 @@ Develop a program that takes allows the user to enter data sets and store each o
 * Check if A and B are equal   // A and B have exactly the same items 
 * Check if a set is a proper subset of other  
 
-Problem Team Members :
+<br>Problem Team Members :<br>
 Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
 Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
@@ -76,7 +76,7 @@ In this program, you will develop an image processing tool that can apply differ
 9-	Shrink Image.<br>
 
 
-Problem Team Members :
+<br>Problem Team Members :<br>
 Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
 Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
@@ -100,7 +100,7 @@ In this program, you will develop an image processing tool that can apply differ
 9-	XOR Cipher.<br>
 10-	Rail-fence Cipher.<br>
 
-Problem Team Members :
+<br>Problem Team Members :<br>
 Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
 Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
