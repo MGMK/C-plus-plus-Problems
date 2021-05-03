@@ -112,41 +112,29 @@ Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-01
 Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
 Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
 
-<!-- GETTING STARTED -->
-## Getting Started 
+<hr>
 
-  Hotel Reservation system project is resposive website contain two project inside it frist part is client and second part is admin dashboard all features that client and admin make it is found in <a href="#about-the-project">About The Project</a> section. 
-  Hotel Reservation system is jave many featues like <a href="https://www.booking.com">Booking.com</a> 
+### problem_4
+<h3>Matrix Operations</h3>
+problem Decription:
+Using structures, 2-D arrays, functions and overloading, the team will develop a set of functions for matrix manipulation. A matrix is represented by the following structure: // > A structure to store a matrix struct matrix {   
+int** data;
+// Pointer to 2D array   int row, col; 
+}; 
+<h4>Security Ciphers Names:</h4>
+1-  Affine Cipher.<br>
+2-	Caesar Cipher.<br>
+3-	Atbash Cipher.<br>
+4-	ROT13 Cipher.<br>
+5-	Baconian Cipher.<br>
+6-	Simple Substitution Cipher.<br>
+7-	Polybius Square Cipher.<br>
+8-	Morse Code.<br>
+9-	XOR Cipher.<br>
+10-	Rail-fence Cipher.<br>
 
-### Prerequisites
-we use Netbeans 8.1 as a programming tool and we use a jar files as a libraries so import this jar files in netbeans and we use mysql workbench 8.0 
-so you should to install this tools to run this project.
-
-list things you need to use the software and how to Run them.
-* Netbeans 8.1
-* mysql workbench 8.0
-* import jar files as a libraries in Netbeans
-
-
-
-
-
-<!-- CONTRIBUTING -->
-## Team_Members
-<a href="https://github.com/MGMK">Mohamed Hamdy</a><br>
-<a href="https://github.com/ahmad-Gommah">Ahmad Gomma</a><br>
-<a href="https://github.com/mhmd19?fbclid=IwAR1RjmI84zQG3enIW02HziSOh7cChlgwFzKhZhQsWyJBXzamC4Xmzw-2Lsw">Mohame Ali</a>
-
-
-
-<!-- CONTACT -->
-## Contact
-Team Members :
-
+<br>Problem Team Members :<br>
 Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
-Ahmad Gomma Farouk - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
+Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
 Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
-
-
-
 
