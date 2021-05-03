@@ -120,6 +120,8 @@ problem Decription:
 Using structures, 2-D arrays, functions and overloading, the team will develop a set of functions for matrix manipulation. A matrix is represented by the following structure:
 
 <br>  
+<p style="color:red;">I am red</p>
+
 <div style="background-color:red;">
   struct matrix {   <br>
   int** data;<br>
