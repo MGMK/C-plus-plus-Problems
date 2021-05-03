@@ -5,13 +5,13 @@
     <li>
       <a href="#General">General C++ Problems</a>
       <ul>
-        <li><a href="#problem 1">problem 1 create files and solve Discrete Math Tool</a></li>
+        <li><a href="#problem_1">problem 1 create files and solve Discrete Math Tool</a></li>
       </ul>
       <ul>
-        <li><a href="#problem 2">problem 2 GrayScale and RGB Images Filters</a></li>
+        <li><a href="#problem_2">problem 2 GrayScale and RGB Images Filters</a></li>
       </ul>
       <ul>
-        <li><a href="#problem 3">problem 3 c++ Security Ciphers</a></li>
+        <li><a href="#problem_3">problem 3 c++ Security Ciphers</a></li>
       </ul>
     </li>
     <li>
@@ -29,7 +29,7 @@
 
 <!-- General C++ Problems -->
 ## General
-### problem 1
+### problem_1
 <h3>create files and solve Discrete Math Tool</h3>
 problem Decription:
 Discrete Math Tool The team will develop a tool for performing discrete math operations.  
@@ -52,32 +52,21 @@ Develop a program that takes allows the user to enter data sets and store each o
 * Check if A and B are equal   // A and B have exactly the same items 
 * Check if a set is a proper subset of other  
 
-### problem 2
+### problem_2
 <h3>GrayScale and RGB Images Filters</h3>
 problem Decription:
 In this program, you will develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
 
 <h4>filters Names:</h4>
-1-	Black and White Image.
-2-	Invert Image.
-3-	Merge Images.
-4-	Flip Image.
-5-	Rotate Image.
-6-	Darken and Lighten Image.
-7-	Detect Image Edges.
-8-	Enlarge Image.
-9-	Shrink Image.
-
-* Union of A, B // Calculate and display the union
-* Intersection of A, B // Calculate and display the intersection 
-* A - B  // Calculate and display A – B (items in A not in B) 
-* B - A  // Calculate and display B - A (items in B not in A)
-* Cartesian product of A and B   
-* Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {Faye,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}  
-* Check if A and B are disjoint  // No item is in A and B at the same time
-* Check if A and B are equal   // A and B have exactly the same items 
-* Check if a set is a proper subset of other  
-
+1-	Black and White Image.<bt>
+2-	Invert Image.<br>
+3-	Merge Images.<br>
+4-	Flip Image.<br>
+5-	Rotate Image.<br>
+6-	Darken and Lighten Image.<br>
+7-	Detect Image Edges.<br>
+8-	Enlarge Image.<br>
+9-	Shrink Image.<br>
 
 
 <!-- GETTING STARTED -->
