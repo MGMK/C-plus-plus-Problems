@@ -41,7 +41,7 @@ Develop a program that takes allows the user to enter data sets and store each o
 E- End
 <h4>problem Functions:</h4>
 
-1- Union of A, B // Calculate and display the union 
+ 
 2- Intersection of A, B // Calculate and display the intersection 
 3- A - B  // Calculate and display A – B (items in A not in B) 
 4- B - A  // Calculate and display B - A (items in B not in A) 
@@ -51,8 +51,9 @@ E- End
 8- Check if A and B are equal   // A and B have exactly the same items 
 9- Check if a set is a proper subset of other // Tell if A  B or B  A 
  
-Bonus 
-* [AJax](https://www.w3schools.com/js/js_ajax_intro.asp)
+* 1- Union of A, B // Calculate and display the union
+* 1- Union of A, B // Calculate and display the union
+* 1- Union of A, B // Calculate and display the union
 
 
 <!-- GETTING STARTED -->
