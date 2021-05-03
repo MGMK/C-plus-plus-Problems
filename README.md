@@ -57,6 +57,8 @@ Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-01
 Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelhamid-85a3811b2/) - LinkedIn<br>
 Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
 
+<hr>
+
 ### problem_2
 <h3>GrayScale and RGB Images Filters</h3>
 problem Decription:
@@ -80,6 +82,7 @@ Mohamed Abd El Hamid - [@LinkedIn](https://www.linkedin.com/in/muhammed-abdelham
 Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b42320185/) - LinkedIn
 
 <hr>
+
 ### problem_3
 <h3>Security Ciphers</h3>
 problem Decription:
