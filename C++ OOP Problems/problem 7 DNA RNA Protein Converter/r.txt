@@ -1,0 +1,127 @@
+AAC N
+
+AAU N
+
+AAA K
+
+AAG K
+
+ACA T
+
+ACC T
+
+ACG T
+
+ACU T
+
+AGC S
+
+AGU S
+
+AUA I
+
+AUC I
+
+AUU I
+
+AUG M
+
+CAA Q
+
+CAG Q
+
+CAC H
+
+CAU H
+
+CCA P
+
+CCC P
+
+CCG P
+
+CCU P
+
+CGA R
+
+AGA R
+
+AGG R
+
+CGC R
+
+CGG R
+
+CGU R
+
+CUA L
+
+CUC L
+
+CUG L
+
+CUU L
+
+GAC D
+
+GAU D
+
+GAA E
+
+GAG E
+
+GCA A
+
+GCC A
+
+GCG A
+
+GCU A
+
+GGA G
+
+GGC G
+
+GGG G
+
+GGU G
+
+GUA V
+
+GUC V
+
+GUG V
+
+GUU V
+
+UAA X
+
+UGA X
+
+UAG X
+
+UAC Y
+
+UAU Y
+
+UCA S
+
+UCC S
+
+UCG S
+
+UCU S
+
+UGC C
+
+UGU C
+
+UGG W
+
+UUA L
+
+UUG L
+
+UUC F
+
+UUU F

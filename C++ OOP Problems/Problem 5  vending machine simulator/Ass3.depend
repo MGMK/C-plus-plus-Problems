@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1542293839 source:f:\year two\term one\oop\assigments\ass_3\ass3\main.cpp
+	"Vending_Machine_Items.h"
+	<iostream>
+
+1542293839 f:\year two\term one\oop\assigments\ass_3\ass3\include\vending_machine_items.h
+
+1542294011 source:f:\year two\term one\oop\assigments\ass_3\ass3\src\vending_machine_items.cpp
+	"Vending_Machine_Items.h"
+	<iostream>
+
+1542293376 f:\year two\term one\oop\assigments\ass_3\ass3\include\vending_machine_comstumer.h
+
+1542293369 source:f:\year two\term one\oop\assigments\ass_3\ass3\src\vending_machine_comstumer.cpp
+	"Vending_Machine_comstumer.h"
+	"Vending_Machine_Items.h"
+	<iostream>
+
+1542293369 source:c:\users\moham\desktop\ass_3\ass3\src\vending_machine_comstumer.cpp
+	"Vending_Machine_comstumer.h"
+	"Vending_Machine_Items.h"
+	<iostream>
+
+1542293376 c:\users\moham\desktop\ass_3\ass3\include\vending_machine_comstumer.h
+
+1542829856 c:\users\moham\desktop\ass_3\ass3\include\vending_machine_items.h
+
+1542830010 source:c:\users\moham\desktop\ass_3\ass3\main.cpp
+	"Vending_Machine_Items.h"
+	<iostream>
+
+1542832376 source:c:\users\moham\desktop\ass_3\ass3\src\vending_machine_items.cpp
+	"Vending_Machine_Items.h"
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1544815183 source:c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\codonstable.cpp
+	"CodonsTable.h"
+
+1544815183 c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\codonstable.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1544815183 source:c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\dna.cpp
+	"DNA.h"
+	"RNA.h"
+
+1544815183 c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\dna.h
+	"Sequence.h"
+
+1544815183 c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\sequence.h
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+	<algorithm>
+	<string.h>
+	<fstream>
+
+1544815183 c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\rna.h
+	"Sequence.h"
+	"Protein.h"
+
+1545167379 c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\protein.h
+	"CodonsTable.h"
+	"DNA.h"
+
+1545167749 source:c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+	<algorithm>
+	<string.h>
+	"Sequence.h"
+	"Protein.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"RNA.h"
+
+1545167393 source:c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\protein.cpp
+	"Protein.h"
+	"RNA.h"
+
+1544815183 source:c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\rna.cpp
+	"RNA.h"
+	"DNA.h"
+
+1544815183 source:c:\users\moham\desktop\assgnments\ass4-g9-20170241\project\sequence.cpp
+	"Sequence.h"
+
+1545902448 source:c:\users\moham\desktop\assgnments\ass4-prog\project\codonstable.cpp
+	"CodonsTable.h"
+
+1544815183 c:\users\moham\desktop\assgnments\ass4-prog\project\codonstable.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1544815183 source:c:\users\moham\desktop\assgnments\ass4-prog\project\dna.cpp
+	"DNA.h"
+	"RNA.h"
+
+1544815183 c:\users\moham\desktop\assgnments\ass4-prog\project\dna.h
+	"Sequence.h"
+
+1545900939 c:\users\moham\desktop\assgnments\ass4-prog\project\sequence.h
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+	<algorithm>
+	<string.h>
+	<fstream>
+
+1544815183 c:\users\moham\desktop\assgnments\ass4-prog\project\rna.h
+	"Sequence.h"
+	"Protein.h"
+
+1545167379 c:\users\moham\desktop\assgnments\ass4-prog\project\protein.h
+	"CodonsTable.h"
+	"DNA.h"
+
+1545167393 source:c:\users\moham\desktop\assgnments\ass4-prog\project\protein.cpp
+	"Protein.h"
+	"RNA.h"
+
+1544815183 source:c:\users\moham\desktop\assgnments\ass4-prog\project\rna.cpp
+	"RNA.h"
+	"DNA.h"
+
+1545900939 source:c:\users\moham\desktop\assgnments\ass4-prog\project\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+	<algorithm>
+	<string.h>
+	"Sequence.h"
+	"Protein.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"RNA.h"
+
+1545901510 source:c:\users\moham\desktop\assgnments\ass4-prog\project\sequence.cpp
+	"Sequence.h"
+
