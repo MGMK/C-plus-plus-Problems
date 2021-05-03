@@ -46,12 +46,40 @@ Develop a program that takes allows the user to enter data sets and store each o
 * Intersection of A, B // Calculate and display the intersection 
 * A - B  // Calculate and display A – B (items in A not in B) 
 * B - A  // Calculate and display B - A (items in B not in A)
-* Cartesian product of A and B  // Set of all pairs (a, b) where a  A, b  B 
-* Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}  
+* Cartesian product of A and B   
+* Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {Faye,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}  
 * Check if A and B are disjoint  // No item is in A and B at the same time
 * Check if A and B are equal   // A and B have exactly the same items 
-* Check if a set is a proper subset of other // Tell if A  B or B  A 
-<a href="https://www.booking.com">Booking.com</a>
+* Check if a set is a proper subset of other  
+
+### problem 2
+<h3>GrayScale and RGB Images Filters</h3>
+problem Decription:
+In this program, you will develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
+
+<h4>filters Names:</h4>
+1-	Black and White Image.
+2-	Invert Image.
+3-	Merge Images.
+4-	Flip Image.
+5-	Rotate Image.
+6-	Darken and Lighten Image.
+7-	Detect Image Edges.
+8-	Enlarge Image.
+9-	Shrink Image.
+
+* Union of A, B // Calculate and display the union
+* Intersection of A, B // Calculate and display the intersection 
+* A - B  // Calculate and display A – B (items in A not in B) 
+* B - A  // Calculate and display B - A (items in B not in A)
+* Cartesian product of A and B   
+* Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {Faye,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}  
+* Check if A and B are disjoint  // No item is in A and B at the same time
+* Check if A and B are equal   // A and B have exactly the same items 
+* Check if a set is a proper subset of other  
+
+
+
 <!-- GETTING STARTED -->
 ## Getting Started 
 
