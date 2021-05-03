@@ -14,14 +14,19 @@
         <li><a href="#problem_3">problem 3 Security Algorithms</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
+    
+      <li>
+      <a href="#OOP">C++ OOP Problems</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#problem_4">problem 4 Matrix Operations</a></li>
+      </ul>
+      <ul>
+        <li><a href="#problem_5">problem 5 vending machine simulator</a></li>
+      </ul>
+      <ul>
+        <li><a href="#problem_6">problem 6 BigDecmal Operations</a></li>
       </ul>
     </li>
-    <li><a href="#Team_Members">Project Team</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
