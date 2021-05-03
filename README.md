@@ -11,7 +11,7 @@
         <li><a href="#problem_2">problem 2 GrayScale and RGB Images Filters</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_3">problem 3 c++ Security Ciphers</a></li>
+        <li><a href="#problem_3">problem 3 Security Algorithms</a></li>
       </ul>
     </li>
     <li>
@@ -86,7 +86,7 @@ Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b423201
 <hr>
 
 ### problem_3
-<h3>Security Ciphers</h3>
+<h3>Security Algorithms</h3>
 problem Decription:
 In this program, you will develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
 
