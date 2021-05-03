@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1519322826 source:f:\2nd term\cs112\mmmm\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
+1519674661 source:f:\2nd term\cs112\q6\main.cpp
+	<iostream>
+	<string>
+
+1519775420 source:f:\2nd term\cs112\assignments\assignment 2\q6\main.cpp
+	<iostream>
+	<string>
+
