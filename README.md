@@ -13,10 +13,6 @@
       <ul>
         <li><a href="#problem_3">problem 3 Security Algorithms</a></li>
       </ul>
-    </li>
-  </ol>
-  <ol>
-    <li>
       <a href="#OOP">C++ OOP Problems</a>
       <ul>
         <li><a href="#problem_4">problem 4 Matrix Operations</a></li>
