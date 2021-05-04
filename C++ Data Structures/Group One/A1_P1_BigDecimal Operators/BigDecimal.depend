@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541106792 source:e:\folder c++\bigdecimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<string>
+
+1541102918 e:\folder c++\bigdecimal\bigdecimal.h
+	<iostream>
+
+1551949441 source:e:\folder c++\bigdecimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+

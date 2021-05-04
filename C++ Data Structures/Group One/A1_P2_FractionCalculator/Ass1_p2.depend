@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1551652570 source:e:\fci2_2\data_structure\a1_20170227_20170269_20170014\a1_p2_20170227_20170269_20170014\main.cpp
+	<iostream>
+	"fraction.h"
+
+1551603699 e:\fci2_2\data_structure\a1_20170227_20170269_20170014\a1_p2_20170227_20170269_20170014\include\fraction.h
+	<iostream>
+
+1551650757 source:e:\fci2_2\data_structure\a1_20170227_20170269_20170014\a1_p2_20170227_20170269_20170014\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+

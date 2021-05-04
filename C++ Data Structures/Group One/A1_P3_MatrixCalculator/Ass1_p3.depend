@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1551899807 source:f:\year two\term two\data structures\a1_p3_20170227_20170269_20170014\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+
+1551896741 f:\year two\term two\data structures\a1_p3_20170227_20170269_20170014\include\matrix.h
+	<iostream>
+
+1551896289 source:f:\year two\term two\data structures\a1_p3_20170227_20170269_20170014\main.cpp
+	"Matrix_Claculation.h"
+	<iostream>
+	"Matrix.h"
+
+1551896289 f:\year two\term two\data structures\a1_p3_20170227_20170269_20170014\include\matrix_claculation.h
+
+1551899862 source:f:\year two\term two\data structures\a1_p3_20170227_20170269_20170014\src\matrix_claculation.cpp
+	"Matrix_Claculation.h"
+	<iostream>
+	"Matrix.h"
+
+1551863890 source:c:\users\moham\desktop\a1_20170227_20170269_20170014\a1_p3_20170227_20170269_20170014\main.cpp
+	"Matrix_Claculation.h"
+	<iostream>
+	"Matrix.h"
+
+1551863890 c:\users\moham\desktop\a1_20170227_20170269_20170014\a1_p3_20170227_20170269_20170014\include\matrix_claculation.h
+
+1551864342 c:\users\moham\desktop\a1_20170227_20170269_20170014\a1_p3_20170227_20170269_20170014\include\matrix.h
+	<iostream>
+
+1551867408 source:c:\users\moham\desktop\a1_20170227_20170269_20170014\a1_p3_20170227_20170269_20170014\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+
+1551867464 source:c:\users\moham\desktop\a1_20170227_20170269_20170014\a1_p3_20170227_20170269_20170014\src\matrix_claculation.cpp
+	"Matrix_Claculation.h"
+	<iostream>
+	"Matrix.h"
+
