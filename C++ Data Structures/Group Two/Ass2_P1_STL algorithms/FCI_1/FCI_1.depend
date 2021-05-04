@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1553946885 source:c:\users\ahmadgommah\desktop\fci_1\main.cpp
+	<iostream>
+	"Book.h"
+	<vector>
+
+1553947583 c:\users\ahmadgommah\desktop\fci_1\include\book.h
+	"Book.h"
+	<string>
+
+1553946848 source:c:\users\ahmadgommah\desktop\fci_1\src\book.cpp
+	"Book.h"
+	<iostream>
+
+1553944042 source:c:\users\babbo\desktop\fci_1\fci_1\main.cpp
+	<iostream>
+	"Book.h"
+	<vector>
+
+1553944712 c:\users\babbo\desktop\fci_1\fci_1\include\book.h
+	"Book.h"
+	<string>
+	<iostream>
+
+1553944782 source:c:\users\babbo\desktop\fci_1\fci_1\src\book.cpp
+	"Book.h"
+	<iostream>
+	<vector>
+
+1554055852 source:c:\users\ahmadgommah\desktop\fci_1\fci_1\main.cpp
+	<iostream>
+	"Book.h"
+	<vector>
+
+1554054685 c:\users\ahmadgommah\desktop\fci_1\fci_1\include\book.h
+	"Book.h"
+	<string>
+	<iostream>
+	<vector>
+
+1554055879 source:c:\users\ahmadgommah\desktop\fci_1\fci_1\src\book.cpp
+	"Book.h"
+	<iostream>
+	<vector>
+	<algorithm>
+

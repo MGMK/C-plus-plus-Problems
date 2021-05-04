@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554899590 source:c:\users\moham\desktop\a2_20170227_20170269_20170014\ass2_p5\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdio.h>
+	<time.h>
+	<ctime>
+
