@@ -52,16 +52,24 @@ Develop a program that takes allows the user to enter data sets and store each o
 * E- End
 
 <h4>Problem functions that implemented in the program:</h4>
-
-* Union of A, B // Calculate and display the union
-* Intersection of A, B // Calculate and display the intersection 
-* A - B  // Calculate and display A – B (items in A not in B) 
-* B - A  // Calculate and display B - A (items in B not in A)
-* Cartesian product of A and B   
-* Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {Faye,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}  
-* Check if A and B are disjoint  // No item is in A and B at the same time
-* Check if A and B are equal   // A and B have exactly the same items 
-* Check if a set is a proper subset of other  
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  Union of A, B // Calculate and display the union</a>
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  Intersection of A, B // Calculate and display the intersection</a>
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  A - B  // Calculate and display A – B (items in A not in B)</a> 
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  B - A  // Calculate and display B - A (items in B not in A)</a>
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  Cartesian product of A and B   </a>
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {Faye,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}  </a>
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  Check if A and B are disjoint  // No item is in A and B at the same time</a>
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  Check if A and B are equal   // A and B have exactly the same items </a>
+* <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
+  Check if a set is a proper subset of other  </a>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
