@@ -44,6 +44,18 @@
         <li><a href="#problem_11">Group Four</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#OOP">C++ Files Problems</a>
+      <ul>
+        <li><a href="#problem_12">files operations.</a></li>
+      </ul>
+      <ul>
+        <li><a href="#problem_13">books library using files</a></li>
+      </ul>
+      <ul>
+        <li><a href="#problem_14">program for Courses operations</a></li>
+      </ul>
+     </li>
     
   </ol>
   
@@ -237,7 +249,7 @@ Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b423201
 <hr>
 
 ### problem_8
-<h3><a href="">Group One</a></h3>
+<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20One">Group One</a></h3>
 
 1-	BigDecimal operators.<br>
 2-	Fraction Calculator .<br>
@@ -246,7 +258,7 @@ Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b423201
 5-	ListPermutations .<br>
 6-	replace Names.<br>
 
-<a href="">
+<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20One/CS214_Assignment1.pdf">
   Group One Problems Description pdf</a>
 
 <br>Problem Team Members :<br>
@@ -257,7 +269,7 @@ Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/
 <hr>
 
 ### problem_9
-<h3><a href="">Group Two</a></h3>
+<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20Two">Group Two</a></h3>
 
 1-	STL algorithms.<br>
 2-	STL Map.<br>
@@ -266,7 +278,7 @@ Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/
 5-	Merge and Quick sorts.<br>
 6-	Insertion sort uses linear search.<br>
 
-<a href="">
+<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20Two/CS214-Assignment2%20-%202019.pdf">
   Group Two Problems Description pdf</a>
 
 <br>Problem Team Members :<br>
@@ -277,7 +289,7 @@ Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/
 <hr>
 
 ### problem_10
-<h3><a href="">Group Three</a></h3>
+<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20Three">Group Three</a></h3>
 
 1-	Linked lists Using STL list.<br>
 2-	Linked lists Using Stack.<br>
@@ -287,7 +299,7 @@ Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/
 6-	Priority Queue .<br>
 7-	STL queue .<br>
 
-<a href="">
+<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20Three/CS214-Assignment3-2019.pdf">
   Group Three Problems Description pdf</a>
 
 <br>Problem Team Members :<br>
@@ -297,12 +309,12 @@ Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/
 
 <hr>
  
- ### problem_11
-<h3><a href="">Group Four</a></h3>
+### problem_11
+<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20Four">Group Four</a></h3>
 
 1-	Tree Operations.<br>
 
-<a href="">
+<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20Four/Assignment%204.pdf">
   Group Four Problems Description pdf</a>
 
 <br>Problem Team Members :<br>
@@ -311,4 +323,68 @@ Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) 
 Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
 
 <hr>
- 
+
+### problem_12
+<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Files%20Problems">files operations.</a></h3>
+
+<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Files%20Problems/ASS_1_add%20delete%20update%20data%20file.cpp">Problems Functions</a>
+1-	add data.<br>
+2-	delete data.<br>
+3-	update data.<br>
+4-	display data.<br>
+
+<br>Problem Team Members :<br>
+Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
+Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
+Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
+
+<hr>
+
+
+
+### problem_13
+<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Files%20Problems">books library using files.</a></h3>
+
+<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Files%20Problems/ASS_2%20books%20library%20using%20files.cpp">Problem Functions</a>
+
+1-	add book.<br>
+2-	search for book.<br>
+3-	read book using cin operator overloading.<br>
+4-	save book using cout operator overloading.<br>
+5-	delete Book.<br>
+6-	display book.<br>
+
+<br>Problem Team Members :<br>
+Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
+Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
+Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
+
+<hr>
+
+### problem_14
+<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Files%20Problems">program for Courses operations.</a></h3>
+
+<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Files%20Problems/ASS_3_program%20for%20Courses.cpp">Problem Functions</a>
+
+1-	add Course.<br>
+2-	Print Course by ID.<br>
+3-	Print Course by Name.<br>
+4-	Delete Course by ID.<br>
+5-	Delete Course by Name.<br>
+6-	Updata Course by ID.<br>
+7-	Updata Course by Name.<br>
+8-	Search for Course using ID.<br>
+9-	Search for Course using Name.<br>
+10-	search for book.<br>
+11-	Save Course info in file.<br>
+12-	load Course Data From file.<br>
+
+<br>Problem Team Members :<br>
+Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
+Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
+Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
+
+<hr>
+
+
+       
