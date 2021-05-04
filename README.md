@@ -53,12 +53,12 @@ Develop a program that takes allows the user to enter data sets and store each o
 
 <h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%201%20create%20files%20and%20solve%20Discrete%20Math%20Tool/main.cpp">
   Problem functions that implemented in the program</a>:</h4>
-* Union of A, B // Calculate and display the union
+* Union of A, B --> Calculate and display the union
 * Intersection of A, B --> Calculate and display the intersection
 * A - B  --> Calculate and display A – B (items in A not in B)</a> <br>
 * B - A  --> Calculate and display B - A (items in B not in A)</a><br>
 * Cartesian product of A and B
-* Power set of A // Set of all subsets of A. A = {1,2,3},   // P(A) = {Faye,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}} 
+* Power set of A --> Set of all subsets of A. A = {1,2,3},   // P(A) = {Faye,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}} 
 * Check if A and B are disjoint --> No item is in A and B at the same time
 * Check if A and B are equal --> A and B have exactly the same items 
 * Check if a set is a proper subset of other
@@ -75,7 +75,8 @@ Mohamed Ali Farouk - [@LinkedIn](https://www.linkedin.com/in/mohamed-ali-b423201
 problem Decription:
 In this program, you will develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
 
-<h4>Filters Names that implemented in the program:</h4>
+<h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%202%20GrayScale%20and%20RGB%20Images%20Filters/grayscale%20and%20RGB%20General_code.cpp">
+  Filters Names that implemented in the program</a>:</h4>
 1-	Black and White Image.<br>
 2-	Invert Image.<br>
 3-	Merge Images.<br>
@@ -100,16 +101,16 @@ problem Decription:
 In this program, you will develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
 
 <h4>Security Ciphers Names that implemented in the program:</h4>
-1-  Affine Cipher.<br>
-2-	Caesar Cipher.<br>
-3-	Atbash Cipher.<br>
-4-	ROT13 Cipher.<br>
-5-	Baconian Cipher.<br>
-6-	Simple Substitution Cipher.<br>
-7-	Polybius Square Cipher.<br>
-8-	Morse Code.<br>
-9-	XOR Cipher.<br>
-10-	Rail-fence Cipher.<br>
+1-  <a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Affine%20Cipher/encr0.cpp">Affine Cipher.</a><br>
+2-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Caesar%20Cipher/main.cpp">Caesar Cipher.</a><br>
+3-	<a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Atbash%20Cipher">Atbash Cipher.</a><br>
+4-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/ROT13%20Cipher/encr3.cpp">ROT13 Cipher.</a><br>
+5-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Baconian%20Cipher/main.cpp">Baconian Cipher.</a><br>
+6-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Simple%20Substitution%20Cipher/main.cpp">Simple Substitution Cipher.</a><br>
+7-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Polybius%20Square%20Cipher/main.cpp">Polybius Square Cipher.</a><br>
+8-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Morse%20Code/main.cpp">Morse Code.</a><br>
+9-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/XOR%20Cipher/main.cpp">XOR Cipher.</a><br>
+10-	<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%203%20Security%20Ciphers/Rail-fence%20Cipher/encr9.cpp">Rail-fence Cipher.</a><br>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy Mohamed - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
